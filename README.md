@@ -50,6 +50,8 @@ Geospatial: routes stored as LINESTRING in PostGIS, H3 for fast proximity lookup
 ## 7. Frontend UX
 Screens: Onboarding, Map entry, Matches, Chat, Carpool confirm.  
 Privacy: usernames only, approximate home zone (not exact).
+<img width="761" height="329" alt="image" src="https://github.com/user-attachments/assets/330517aa-2e87-46df-8508-d87cce77ff1c" />
+
 
 ---
 
@@ -58,6 +60,7 @@ Privacy: usernames only, approximate home zone (not exact).
 * Matching Service (PostGIS+H3 scoring).  
 * Chat Service (Socket.IO+Redis).  
 * Auth (JWT, unique username).
+<img width="1140" height="652" alt="image" src="https://github.com/user-attachments/assets/2f442b0e-7820-4995-9498-7447129d6350" />
 
 ---
 
