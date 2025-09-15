@@ -92,6 +92,7 @@ MIT License
 
 
 
+
 example code for frontend
 import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
 import Home from "./pages/Home";
